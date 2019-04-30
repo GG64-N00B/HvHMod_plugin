@@ -14,6 +14,6 @@ Plugin is a little bit buggy so dont care much, but at least it works.
 	
 	*say /hvh_help* - View commands list
 	
-Join our [community](vk.com/opengg64)
+Join our [community](https://vk.com/opengg64)
 
 Server: 89.19.174.11:27016
